@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "It is program which takes url and then creates QR code for it",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cxvarisorka/QR-Code-Generator-JS.git"
+  },
+  "author": "Luka Tskhvaradze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cxvarisorka/QR-Code-Generator-JS/issues"
+  },
+  "homepage": "https://github.com/Cxvarisorka/QR-Code-Generator-JS#readme",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  }
+}
